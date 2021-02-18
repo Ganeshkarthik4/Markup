@@ -36,8 +36,8 @@
 
 
 **Table**
-|Name|Branch|College|
------|-----|-----  
+Name|Branch|College
+-----|-----|----- 
 abc|cse|vrsec   
 bgh|it|vrsec  
 kjl|ece|vrsec    
