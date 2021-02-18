@@ -36,11 +36,11 @@
 
 
 **Table**
-Name|Branch|College
------|-----|----- 
-abc|cse|vrsec   
-bgh|it|vrsec  
-kjl|ece|vrsec    
+|Name|Branch|College|  
+|-----|-----|-----|   
+|abc|cse|vrsec|       
+|bgh|it|vrsec|      
+|kjl|ece|vrsec|        
 
 **Code**  
 ``` c    
